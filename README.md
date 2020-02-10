@@ -1,0 +1,1 @@
+My solutions to the assignments in the [openml course](https://mlcourse.ai/assignments).
